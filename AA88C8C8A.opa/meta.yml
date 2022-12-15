@@ -1,0 +1,20 @@
+id: AA88C8C8A
+title: Toh_147-The_Teaching_on_the_Great_Compassion_of_the_Tathagata-v1
+type: translation
+pechas:
+- ICE6FB059
+- I157FF080
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-057-006
+  eft-text-version: 1.2.6 2021
+  title: Toh_147-The_Teaching_on_the_Great_Compassion_of_the_Tathagata-v1
+alignment_to_base:
+  ICE6FB059/68F6: E9A1
+  I157FF080/8FF7: E9A1
